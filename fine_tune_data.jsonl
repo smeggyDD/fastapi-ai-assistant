@@ -1,0 +1,167 @@
+[
+    {
+      "input": "Show me apartments for sale in Dubai Marina",
+      "output": "Here are some apartments for sale in Dubai Marina: \n1. 2-bedroom apartment, $400,000\n2. 1-bedroom apartment, $250,000\n3. 3-bedroom apartment, $600,000"
+    },
+    {
+      "input": "What are the rental prices for 3-bedroom villas in Palm Jumeirah?",
+      "output": "The rental prices for 3-bedroom villas in Palm Jumeirah range from $5,000 to $10,000 per month."
+    },
+    {
+      "input": "Can you find me a 2-bedroom apartment under $300,000?",
+      "output": "Here are some 2-bedroom apartments under $300,000:\n1. Apartment in JVC - $250,000\n2. Apartment in Al Barsha - $280,000"
+    },
+    {
+      "input": "What is the average price for villas in Dubai Hills?",
+      "output": "The average price for villas in Dubai Hills is around $2 million, with prices ranging from $1.5 million to $3 million."
+    },
+    {
+      "input": "Find me an off-plan property in Dubai with a sea view",
+      "output": "Here is an off-plan property with a sea view:\n1. Sea View Residence in Dubai Marina - $800,000 (expected completion: 2026)"
+    },
+    {
+      "input": "What are the rental prices for 4-bedroom villas in Jumeirah Beach?",
+      "output": "Rental prices for 4-bedroom villas in Jumeirah Beach range from $7,000 to $15,000 per month."
+    },
+    {
+      "input": "Show me apartments for sale in Downtown Dubai under $500,000",
+      "output": "Here are some apartments for sale in Downtown Dubai under $500,000:\n1. 1-bedroom apartment, $450,000\n2. Studio apartment, $350,000"
+    },
+    {
+      "input": "Can you find me a 3-bedroom villa in Dubai Hills for under $2 million?",
+      "output": "Here are some 3-bedroom villas in Dubai Hills under $2 million:\n1. Villa with pool, $1.8 million\n2. Villa with garden, $1.9 million"
+    },
+    {
+      "input": "What is the price range for 2-bedroom apartments in Business Bay?",
+      "output": "The price range for 2-bedroom apartments in Business Bay is between $350,000 and $650,000."
+    },
+    {
+      "input": "Find me an off-plan apartment in Dubai Marina under $900,000",
+      "output": "Here is an off-plan apartment in Dubai Marina under $900,000:\n1. Marina View Tower - $850,000 (expected completion: 2025)"
+    },
+    {
+      "input": "Show me villas for rent in Arabian Ranches",
+      "output": "Here are some villas for rent in Arabian Ranches:\n1. 3-bedroom villa, $5,500/month\n2. 4-bedroom villa, $7,000/month"
+    },
+    {
+      "input": "What are the prices for off-plan properties in Palm Jumeirah?",
+      "output": "Off-plan properties in Palm Jumeirah range from $700,000 to $3 million depending on the size and type."
+    },
+    {
+      "input": "Can you find a 2-bedroom apartment with a sea view in Jumeirah Beach?",
+      "output": "Here is a 2-bedroom apartment with a sea view in Jumeirah Beach:\n1. Beachfront apartment, $750,000"
+    },
+    {
+      "input": "What is the price for a 1-bedroom apartment in Dubai Creek Harbour?",
+      "output": "A 1-bedroom apartment in Dubai Creek Harbour typically costs around $300,000."
+    },
+    {
+      "input": "Can you find me an off-plan property in Dubai for under $1 million?",
+      "output": "Here is an off-plan property in Dubai under $1 million:\n1. Skyline Residence, $950,000 (expected completion: 2027)"
+    },
+    {
+      "input": "What are the rental prices for apartments in Dubai Silicon Oasis?",
+      "output": "Rental prices for apartments in Dubai Silicon Oasis range from $1,500 to $4,000 per month."
+    },
+    {
+      "input": "Show me properties for rent in Jumeirah Lake Towers",
+      "output": "Here are some properties for rent in Jumeirah Lake Towers:\n1. Studio apartment, $1,800/month\n2. 1-bedroom apartment, $2,500/month"
+    },
+    {
+      "input": "What are the prices for off-plan villas in Al Barsha?",
+      "output": "Off-plan villas in Al Barsha range from $1.5 million to $3.5 million."
+    },
+    {
+      "input": "Can you find me an apartment in Jumeirah for under $400,000?",
+      "output": "Here is an apartment in Jumeirah for under $400,000:\n1. 1-bedroom apartment, $350,000"
+    },
+    {
+      "input": "What is the average rental price for a 3-bedroom apartment in Downtown Dubai?",
+      "output": "The average rental price for a 3-bedroom apartment in Downtown Dubai is around $6,500 per month."
+    },
+    {
+      "input": "Find me a 2-bedroom villa in Arabian Ranches for under $1 million",
+      "output": "Here is a 2-bedroom villa in Arabian Ranches for under $1 million:\n1. Villa with garden, $950,000"
+    },
+    {
+      "input": "What is the price range for luxury villas in Palm Jumeirah?",
+      "output": "Luxury villas in Palm Jumeirah range from $3 million to $15 million depending on size and location."
+    },
+    {
+      "input": "Can you find me a property with a sea view in Jumeirah Beach?",
+      "output": "Here is a property with a sea view in Jumeirah Beach:\n1. 3-bedroom apartment, $1.2 million"
+    },
+    {
+      "input": "Show me apartments for sale in Al Barsha",
+      "output": "Here are some apartments for sale in Al Barsha:\n1. 1-bedroom apartment, $220,000\n2. 2-bedroom apartment, $350,000"
+    },
+    {
+      "input": "What are the rental prices for villas in Dubai Hills?",
+      "output": "Rental prices for villas in Dubai Hills range from $6,000 to $12,000 per month."
+    },
+    {
+      "input": "Can you find me a studio apartment in Dubai Marina under $200,000?",
+      "output": "Here is a studio apartment in Dubai Marina under $200,000:\n1. Studio apartment, $190,000"
+    },
+    {
+      "input": "What is the price for a 4-bedroom villa in Palm Jumeirah?",
+      "output": "A 4-bedroom villa in Palm Jumeirah typically costs around $5 million."
+    },
+    {
+      "input": "Find me an off-plan property in Dubai for under $500,000",
+      "output": "Here is an off-plan property in Dubai for under $500,000:\n1. Beachfront residence in JVC, $450,000 (expected completion: 2025)"
+    },
+    {
+      "input": "What is the price range for 3-bedroom apartments in Jumeirah Beach Residence?",
+      "output": "The price range for 3-bedroom apartments in Jumeirah Beach Residence is between $1 million and $2 million."
+    },
+    {
+      "input": "Show me villas for rent in JVC",
+      "output": "Here are some villas for rent in JVC:\n1. 3-bedroom villa, $4,000/month\n2. 4-bedroom villa, $5,500/month"
+    },
+    {
+      "input": "Can you find me a 3-bedroom apartment in Business Bay for under $700,000?",
+      "output": "Here is a 3-bedroom apartment in Business Bay for under $700,000:\n1. Apartment with views, $680,000"
+    },
+    {
+      "input": "What is the average price for a studio apartment in Dubai Silicon Oasis?",
+      "output": "The average price for a studio apartment in Dubai Silicon Oasis is around $150,000."
+    },
+    {
+      "input": "Can you find me a 1-bedroom apartment for rent in Downtown Dubai?",
+      "output": "Here is a 1-bedroom apartment for rent in Downtown Dubai:\n1. Apartment with Burj Khalifa views, $3,000/month"
+    },
+    {
+      "input": "What are the prices for off-plan properties in Dubai Hills?",
+      "output": "Off-plan properties in Dubai Hills range from $800,000 to $2.5 million."
+    },
+    {
+      "input": "Find me an off-plan apartment in Jumeirah for under $1 million",
+      "output": "Here is an off-plan apartment in Jumeirah for under $1 million:\n1. Marina View Tower, $950,000 (expected completion: 2026)"
+    },
+    {
+      "input": "What is the price for a 2-bedroom villa in Palm Jumeirah?",
+      "output": "A 2-bedroom villa in Palm Jumeirah typically costs around $3.5 million."
+    },
+    {
+      "input": "Show me properties for sale in Dubai Silicon Oasis",
+      "output": "Here are some properties for sale in Dubai Silicon Oasis:\n1. 2-bedroom apartment, $220,000\n2. Studio apartment, $150,000"
+    },
+    {
+      "input": "What are the rental prices for 1-bedroom apartments in Dubai Creek Harbour?",
+      "output": "Rental prices for 1-bedroom apartments in Dubai Creek Harbour range from $2,000 to $3,500 per month."
+    },
+    {
+      "input": "Can you find me a 3-bedroom villa in Al Barsha for under $1.5 million?",
+      "output": "Here is a 3-bedroom villa in Al Barsha for under $1.5 million:\n1. Villa with garden, $1.3 million"
+    },
+    {
+      "input": "What is the price range for off-plan apartments in Business Bay?",
+      "output": "Off-plan apartments in Business Bay range from $500,000 to $1.5 million."
+    },
+    {
+      "input": "Show me villas for rent in Dubai Marina",
+      "output": "Here are some villas for rent in Dubai Marina:\n1. 3-bedroom villa, $6,000/month\n2. 4-bedroom villa, $8,000/month"
+    }
+  ]
+  
